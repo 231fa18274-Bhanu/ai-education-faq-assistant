@@ -31,6 +31,8 @@ Bhanu Sri (B.Tech AI & ML, Vignan University)
 
 ---
 
-### 
+###
+##Live Link
+https://ai-education-faq-assistant-7c7uappwber3hyhxrvadt7y.streamlit.app/
 
 

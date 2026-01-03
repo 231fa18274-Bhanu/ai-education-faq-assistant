@@ -24,7 +24,10 @@ https://your-app-name.streamlit.app
 
 Hallucination Test
 
-Valid: What scholarships are available for students?
+Valid:
+What scholarships are available for students?
+How does the government support higher education students?
+What schemes support education for girl students?
 
 Invalid: Who is the Prime Minister of India? → Information not available
 

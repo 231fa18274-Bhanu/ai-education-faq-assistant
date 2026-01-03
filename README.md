@@ -12,6 +12,9 @@ The system uses **Retrieval-Augmented Generation (RAG)** to answer student queri
 ## Tech Stack
 Python, Streamlit, LangChain, FAISS, Sentence Transformers
 
+##Live Link
+https://ai-education-faq-assistant-7c7uappwber3hyhxrvadt7y.streamlit.app/
+
 ## How to Run
 ```bash
 streamlit run app.py
@@ -32,7 +35,6 @@ Bhanu Sri (B.Tech AI & ML, Vignan University)
 ---
 
 ###
-##Live Link
-https://ai-education-faq-assistant-7c7uappwber3hyhxrvadt7y.streamlit.app/
+
 
 
